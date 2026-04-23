@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cb5dd55-34df-448a-8079-22535c657444" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson7/Task/Cafe.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson7/Task/CoffeeOrder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson7/Task/DessertOrder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson7/Task/Order.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson7/Task/OrderManager.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson7/Task/TeaOrder.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3BBH9P6l8WumimIbvWHQDj2Kkvq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnimalDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccountDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FifthTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FourthTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FouthTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MediaDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThirdTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VehicleDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson10.Task.Cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson3.ArraysTasks.SecondTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson3.ArraysTasks.ThirdTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson3.MethodsTasks.FirstTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson7.Task.Cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson8.Task.Cafe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ua.QALightCourse.Lesson9.Task.Cafe.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/arud/Desktop/ТК/QALight_Lessons/src/ua/QALightCourse&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/QALight_Lesson_1/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arud\Desktop\ТК\QALight_Lessons\src\ua\QALightCourse" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ua.QALightCourse.Lesson10.Task.Cafe">
+    <configuration name="Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson6.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson6.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson6.Task.OrderManager" />
+      <module name="QALight_Lesson_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson10.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson10.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.QALightCourse.Lesson10.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson7.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson7.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson7.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson7.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson8.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson8.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.QALightCourse.Lesson8.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson8.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson8.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.QALightCourse.Lesson8.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson9.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson9.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.QALightCourse.Lesson9.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ua.QALightCourse.Lesson9.Task.Cafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.QALightCourse.Lesson9.Task.Cafe" />
+      <module name="QALight_Lesson_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.QALightCourse.Lesson9.Task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ua.QALightCourse.Lesson10.Task.Cafe" />
+        <item itemvalue="Application.ua.QALightCourse.Lesson9.Task.Cafe" />
+        <item itemvalue="Application.ua.QALightCourse.Lesson8.Task.Cafe" />
+        <item itemvalue="Application.ua.QALightCourse.Lesson7.Task.Cafe" />
+        <item itemvalue="Application.Cafe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cb5dd55-34df-448a-8079-22535c657444" name="Changes" comment="" />
+      <created>1773955392889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773955392889</updated>
+      <workItem from="1775850063107" duration="4128000" />
+      <workItem from="1775925904463" duration="77000" />
+      <workItem from="1776099335445" duration="68000" />
+      <workItem from="1776191177707" duration="8968000" />
+      <workItem from="1776319064156" duration="66000" />
+      <workItem from="1776460904210" duration="4505000" />
+      <workItem from="1776503833586" duration="1011000" />
+      <workItem from="1776603665468" duration="221000" />
+      <workItem from="1776711902517" duration="3555000" />
+      <workItem from="1776752560873" duration="1831000" />
+      <workItem from="1776778424968" duration="4136000" />
+      <workItem from="1776876269128" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ua/QALightCourse/Lesson2/IfElseTasks/SecondTask.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.Exception" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
