@@ -1,0 +1,17 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        List<String> list = new ArrayList<>();
+        list.add("Apple");
+        list.add("Banana");
+        list.add("Cherry");
+
+        // 3. Iterator
+        System.out.println("\nIterator:");
+        Iterator<String> iterator = list.iterator();
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
+    }
+}
