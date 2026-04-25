@@ -7,7 +7,6 @@ public class Main {
         list.add("Banana");
         list.add("Cherry");
 
-        // 3. Iterator
         System.out.println("\nIterator:");
         Iterator<String> iterator = list.iterator();
         while (iterator.hasNext()) {
